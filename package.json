@@ -1,6 +1,6 @@
 {
   "name": "glsl-token-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts an array of GLSL tokens to a plain source string",
   "main": "index.js",
   "license": "MIT",
